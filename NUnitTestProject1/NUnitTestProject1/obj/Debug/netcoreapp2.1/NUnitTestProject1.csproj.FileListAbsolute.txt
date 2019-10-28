@@ -1,0 +1,15 @@
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.deps.json
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.runtimeconfig.json
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.runtimeconfig.dev.json
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.dll
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.pdb
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.csprojAssemblyReference.cache
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.AssemblyInfoInputs.cache
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.AssemblyInfo.cs
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.dll
+C:\Tools\GitHub\NunitTest\Nunit_Test\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.pdb
